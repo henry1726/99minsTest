@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">99minsTest</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="codigo_postal">Código Postal</string>
+    <string name="mexico">México</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="alcaldia">Alcaldía o municipio</string>
+    <string name="pais">País</string>
+    <string name="entidad">Entidad</string>
+    <string name="colonia">Colonia</string>
+</resources>
